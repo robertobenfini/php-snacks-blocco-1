@@ -10,12 +10,8 @@
         }
 
         else{
-            echo "Accesso negato";
+            echo "Acesso negato";
         }
-    }
-
-    else{
-        echo "";
     }
 
 ?>
