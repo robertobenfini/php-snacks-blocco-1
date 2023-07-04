@@ -24,10 +24,10 @@
         <title>Document</title>
     </head>
     <body>
-        <form action="" method="get">
+        <form action="index-2.php" method="get">
             <input type="name" placeholder="Name" name="name" required>
             <input type="email" placeholder="Email" name="email" required>
-            <input type="text" placeholder="Age" name="age" required>
+            <input type="number" placeholder="Age" name="age" required>
             <input type="submit" value="Invia">
         </form>
     </body>

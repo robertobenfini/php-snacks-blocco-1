@@ -1,6 +1,5 @@
 <?php
 
-    echo "<pre>";
     $matches = [
         [
             'teams' => 'Inter - Juventus',
